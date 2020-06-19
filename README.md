@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tluolamo_boilerplate-project-headerparser&metric=alert_status)](https://sonarcloud.io/dashboard?id=tluolamo_boilerplate-project-headerparser)
+
 # API Project: Request Header Parser Microservice for freeCodeCamp
 
 ### User stories:
