@@ -1,4 +1,6 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tluolamo_boilerplate-project-headerparser&metric=alert_status)](https://sonarcloud.io/dashboard?id=tluolamo_boilerplate-project-headerparser)
+![CircleCI](https://img.shields.io/circleci/build/github/tluolamo/boilerplate-project-headerparser)
+[![codecov](https://codecov.io/gh/tluolamo/boilerplate-project-headerparser/branch/gomix/graph/badge.svg)](https://codecov.io/gh/tluolamo/boilerplate-project-headerparser)
 
 # API Project: Request Header Parser Microservice for freeCodeCamp
 
